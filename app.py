@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Wpisz swój klucz API OpenAI
-openai.api_key = "TWÓJ_KLUCZ_API"
+openai.api_key = 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
 
 st.title("Generator Postów Marketingowych")
 
